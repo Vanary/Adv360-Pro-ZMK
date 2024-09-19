@@ -17,7 +17,7 @@ Certain ZMK features (e.g. combos) require knowing the exact key positions in th
 
 ### Build firmware
 
-1. Push a commit to trigger the build.
+1. Push a commit to trigger the build. >> Done on 24/09/19
 2. Download the artifact.
 
 ## Building the Firmware in a local container
